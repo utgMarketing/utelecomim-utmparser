@@ -8,7 +8,7 @@ npm i utelecomim-utmparser
 # CDN
 
 ```js
-<script src="https://cdn.jsdelivr.net/gh/utgMarketing/utelecomim-utmparser@1.0.0/library.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/utgMarketing/utelecomim-utmparser@1.0.1/library.min.js"></script>
 ```
 
 # Usage
