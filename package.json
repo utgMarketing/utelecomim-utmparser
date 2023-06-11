@@ -1,6 +1,6 @@
 {
   "name": "utelecomim-utmparser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utelecom UTM Parser",
   "main": "dist/library.min.js",
   "scripts": {
