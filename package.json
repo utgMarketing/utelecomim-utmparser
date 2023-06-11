@@ -1,0 +1,27 @@
+{
+  "name": "utelecomim-utmparser",
+  "version": "1.0.0",
+  "description": "Utelecom UTM Parser",
+  "main": "library.js",
+  "scripts": {
+    "build": "babel library.js --out-file library.min.js && terser library.min.js -o library.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utgMarketing/utelecomim-utmparser.git"
+  },
+  "keywords": [
+    "utelecom"
+  ],
+  "author": "UTG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utgMarketing/utelecomim-utmparser/issues"
+  },
+  "homepage": "https://github.com/utgMarketing/utelecomim-utmparser#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "terser": "^5.17.7"
+  }
+}
